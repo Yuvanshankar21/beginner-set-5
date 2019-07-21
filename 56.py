@@ -8,6 +8,6 @@ for x in range (l):
   elif(a[x].isalpha()):
     sum1=sum1+1
 if(count!=0 and sum1!=0):    
-  print('yes')
+  print('Yes')
 else:
-  print('no')    
+  print('No')    
