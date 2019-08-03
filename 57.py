@@ -1,3 +1,4 @@
+n,k=map(int,input().split())
 num=list(map(int,input().split()))[:n]
 count=0
 for x in range (0,n):
